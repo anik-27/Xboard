@@ -1,0 +1,60 @@
+.navbar-brand {
+font-size: 1.8rem;
+letter-spacing: .2rem;
+font-weight: 500;
+}
+
+.gradient {
+position: absolute;
+width: 27px;
+height: 9px;
+background: linear-gradient(96.34deg, #E537B9 0%, #C040DF 100%);
+border-radius: 4.5px;
+top: 15%;
+}
+
+.fixed-text {
+    letter-spacing: .1rem;
+}
+
+.fixed-text p {
+    color: #858585;
+    font-size: 1.2rem;
+    font-weight: 245;
+}
+
+.card-header {
+    background-color: white;
+    border: none;
+}
+
+.card{
+    border: none;
+}
+
+a {
+   text-decoration: none;
+   color: #292B2E;
+}
+a:hover{
+    text-decoration: none;
+}
+
+.badge-light{
+    background-color: #fff;
+    border: none;
+}
+
+img{
+    width: 100%;
+    height: 70vh;
+}
+
+img:hover{
+    filter: brightness(40%);
+}
+
+button:focus{
+    outline: unset;
+}
+
